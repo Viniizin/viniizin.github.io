@@ -1,4 +1,10 @@
 body {
     background-color: #1c1d67;
+    color: #fff;
     padding: 10px;
+}
+
+h1, h3 {
+    text-align: center;
+    margin-top: 20px;
 }
